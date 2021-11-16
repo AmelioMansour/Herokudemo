@@ -1,0 +1,22 @@
+{
+  "name": "herokudemo",
+  "version": "1.0.0",
+  "description": "Barebone nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "sart": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmelioMansour/Herokudemo.git"
+  },
+  "author": "Ameliooo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmelioMansour/Herokudemo/issues"
+  },
+  "homepage": "https://github.com/AmelioMansour/Herokudemo#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
