@@ -4,7 +4,7 @@
   "description": "Barebone nodejs server",
   "main": "index.js",
   "scripts": {
-    "sart": "node index"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
